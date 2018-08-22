@@ -25,3 +25,16 @@
 .list-group-item:hover {
     background-color: #eee;
 }
+
+.media-heading {
+  font-weight: bold;
+}
+
+.media-channel-title {
+  font-style: italic;
+  color: #bbbbbb;
+}
+
+.media-description {
+
+}
